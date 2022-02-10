@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cat Api</string>
+
+    <string name="facebook_app_id">664892734552129</string>
+    <string name="fb_login_protocol_scheme">fb664892734552129</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
