@@ -32,7 +32,7 @@ apply plugin: 'com.google.gms.google-services'
 android {
     signingConfigs {
         debug {
-            storeFile file(var)
+            storeFile file('debug.keystore')
         }
     }
     compileSdkVersion flutter.compileSdkVersion
